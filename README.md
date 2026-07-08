@@ -49,4 +49,4 @@ This combines experimental crystallography data with quantum mechanical calculat
 
 ### 📄 Curriculum Vitae
 
-[Download my CV (PDF)](./Raphael_F_Ligorio_CV.pdf)
+[View CV](./Raphael_F_Ligorio_CV.pdf)
