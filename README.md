@@ -44,3 +44,9 @@ This combines experimental crystallography data with quantum mechanical calculat
 ---
 
 📫 **raphaf96@gmail.com**
+
+---
+
+### 📄 Curriculum Vitae
+
+[Download my CV (PDF)](./Raphael_F_Ligorio_CV.pdf)
