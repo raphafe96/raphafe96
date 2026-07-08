@@ -1,6 +1,6 @@
 # 👋 Raphael F. Ligório
 
-**Computational Chemist | Vibrational Spectroscopy | Software Development**
+**Computational Chemist**
 
 ---
 
@@ -23,17 +23,6 @@ I develop and maintain **GruPol** (and GFF-CrysPol), a computational suite for m
 I will be learning and implementing **periodic X-ray restrained wavefunction (XRW) methods** to predict optoelectronic properties of crystalline materials. Supervision: Prof. Alessandro Genoni.
 
 This combines experimental crystallography data with quantum mechanical calculations for accurate wavefunctions and property predictions.
-
----
-
-### 🎓 Academic Background
-
-| | |
-| :--- | :--- |
-| **PhD (Chemistry)** | University of Göttingen, Germany – *summa cum laude* |
-| **MSc (Chemistry)** | UFMG, Brazil |
-| **BSc (Chemistry)** | UFMG, Brazil |
-| **Technician (Chemistry)** | UFMG, Brazil |
 
 ---
 
