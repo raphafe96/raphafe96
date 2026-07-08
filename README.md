@@ -2,6 +2,8 @@
 
 **Computational Chemist**
 
+I hold a PhD in Chemistry from the University of Göttingen (*summa cum laude*) under Prof. Anna Krawczuk, and an MSc in Chemistry from UFMG under Prof. Leonardo H. R. dos Santos, where I also completed my BSc and technical training. I am currently a postdoctoral researcher at CBPF in Rio de Janeiro, working on high-performance computing and quantum computing applications for the oil and gas industry.
+
 ---
 
 ### 🔬 What I Do
@@ -16,7 +18,7 @@ I develop and maintain **GruPol** (and GFF-CrysPol), a computational suite for m
 
 ---
 
-### 🚀 What I'm Planning
+### 🚀 What's Next
 
 **Marie Sklodowska-Curie Actions Postdoctoral Fellowship** – starting January 2027 at **Politecnico di Milano**.
 
